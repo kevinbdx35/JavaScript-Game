@@ -1,3 +1,4 @@
+//Use the same template of index.html that before, to implement this code
 let checkNum = 5; //0 or null or 500 or "5"
 if (checkNum) {
   console.log("Checknum is true");

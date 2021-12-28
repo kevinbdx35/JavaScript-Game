@@ -1,3 +1,4 @@
+//Use the same template of index.html that before, to implement this code
 const a = "Hello World!";
 console.log(a);
 

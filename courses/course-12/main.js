@@ -1,3 +1,4 @@
+//Use the same template of index.html that before, to implement this code
 let person = "Laurence";
 switch (person) {
   case "John":

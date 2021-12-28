@@ -1,3 +1,4 @@
+//Use the same template of index.html that before, to implement this code
 let userAge = prompt("How old are you?");
 console.log(userAge);
 userAge = Number(userAge);

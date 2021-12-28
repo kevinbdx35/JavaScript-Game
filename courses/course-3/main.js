@@ -1,3 +1,4 @@
+//Use the same template of index.html that before, to implement this code
 const test = true;
 let message = "Welcome to the website";
 let moreStuff;
