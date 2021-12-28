@@ -1,7 +1,5 @@
-let checkNum = 5;
+let val = 3;
+let status = val % 2 ? "odd" : "even";
 
-if (checkNum > 10) {
-  console.log("yes greater than 10");
-} else {
-  console.log("that was false");
-}
+console.log(val);
+console.log(status);

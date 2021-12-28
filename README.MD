@@ -1,3 +1,3 @@
 # JavaScript
 
-No Frameworks or Javascript librairies, I just use regular vanilla JavasScript.
+No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
