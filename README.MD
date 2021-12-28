@@ -8,6 +8,7 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 4 : Prompt
 - Course - 5 : Functions
 - Course - 6 : Data Types
+- Challenges - 1 : Mile converter to Km
 - Course - 7 : Operators
 - Course - 8 : Comparaison Operators
 - Course - 9 : If Else Statements
@@ -17,5 +18,5 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 12 : Switch
 - Course - 13 : Functions
 
-- Challenges - 1 : Mile converter to Km
+
 
