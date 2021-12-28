@@ -1,3 +1,4 @@
+//Conditions to say Hello
 let myTime = 19;
 let output;
 
