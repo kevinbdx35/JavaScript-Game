@@ -17,6 +17,7 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Challenges - 2 : Conditions to say Hello
 - Course - 12 : Switch
 - Course - 13 : Functions
+- Course - 14 : Functions Parameters
 
 
 
