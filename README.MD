@@ -2,6 +2,8 @@
 
 No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 
+
+## Fundamentals
 - Course - 1 : Hello World!
 - Course - 2 : Variables
 - Course - 3 : Variables
