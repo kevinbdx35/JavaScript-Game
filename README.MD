@@ -21,3 +21,5 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 15 : Function Return
 - Course - 16 : Function in HTML
 - Course - 17 : DOM events
+- Course - 18 : Declaration vs Expressions Functions
+- 
