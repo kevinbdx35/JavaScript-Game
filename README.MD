@@ -20,4 +20,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 14 : Function Parameters
 - Course - 15 : Function Return
 - Course - 16 : Function in HTML
-
+- Course - 17 : DOM events
