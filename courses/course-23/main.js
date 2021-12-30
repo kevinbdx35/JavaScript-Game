@@ -10,8 +10,8 @@ const car = {
 
 let a = 1;
 const test = {
-  a1:"test1";
-  a2:"test2"
-}
+  a1: "test1",
+  a2: "test2"
+};
 
 console.log(test);
