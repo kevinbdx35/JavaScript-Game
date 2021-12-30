@@ -5,7 +5,7 @@ const car = {
   year: 2010,
   make: "Corvette",
   brand: "Chevrolet",
-  price: 50000,
+  price: 50000
 };
 
 let a = 1;
