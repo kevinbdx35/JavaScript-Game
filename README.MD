@@ -29,3 +29,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 21 : IIFE
 - Course - 22 : Arrow Function
 - Course - 23 : Objects Arrays
+- Course - 24 : Objet Method
