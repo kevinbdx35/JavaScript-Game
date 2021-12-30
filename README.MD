@@ -30,4 +30,5 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 22 : Arrow Function
 - Course - 23 : Objects Arrays
 - Course - 24 : Objet Method
-- Course - 25 : Crete Objects With Functions
+- Course - 25 : Create Objects With Functions
+- Course - 26 : Arrays
