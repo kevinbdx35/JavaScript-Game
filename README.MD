@@ -33,6 +33,7 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 25 : Create Objects With Functions
 - Course - 26 : Arrays
 - Course - 27 : Power Up With Arrays
-
+- Course - 28 : Power Up With Arrays More
+- Course - 29 : Array Filter
 
 ## Web Page Interaction And Dynamic Content DOM
