@@ -1,5 +1,11 @@
 //Use the same template of index.html that before like in course-1
 
+const myCar = {};
+myCar.color = "black";
+console.log(myCar);
+myCar["year"]="2019";
+console.log(myCar);
+
 const car = {
   color: "red",
   year: 2010,
