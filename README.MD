@@ -10,13 +10,13 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 4 : Prompt
 - Course - 5 : Functions
 - Course - 6 : Data Types
-- Challenges - 1 : Mile Converter To Km
+- Challenge - 1 : Mile Converter To Km
 - Course - 7 : Operators
 - Course - 8 : Comparaison Operators
 - Course - 9 : If Else Statements
 - Course - 10 : Ternary Operators
 - Course - 11 : Multiple Conditions
-- Challenges - 2 : Conditions To Say Hello
+- Challenge - 2 : Conditions To Say Hello
 - Course - 12 : Switch
 - Course - 13 : Function
 - Course - 14 : Function Parameters
@@ -35,5 +35,8 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 27 : Power Up With Arrays
 - Course - 28 : Power Up With Arrays More
 - Course - 29 : Array Filter
+- Course - 30 : Loops
+- Challenge - 3 : 
+- 
 
 ## Web Page Interaction And Dynamic Content DOM
