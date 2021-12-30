@@ -10,19 +10,19 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 4 : Prompt
 - Course - 5 : Functions
 - Course - 6 : Data Types
-- Challenges - 1 : Mile converter to Km
+- Challenges - 1 : Mile Converter To Km
 - Course - 7 : Operators
 - Course - 8 : Comparaison Operators
 - Course - 9 : If Else Statements
 - Course - 10 : Ternary Operators
 - Course - 11 : Multiple Conditions
-- Challenges - 2 : Conditions to say Hello
+- Challenges - 2 : Conditions To Say Hello
 - Course - 12 : Switch
 - Course - 13 : Function
 - Course - 14 : Function Parameters
 - Course - 15 : Function Return
-- Course - 16 : Function in HTML
-- Course - 17 : DOM events
+- Course - 16 : Function In HTML
+- Course - 17 : DOM Events
 - Course - 18 : Declaration vs Expressions Functions
 - Course - 19 : Function Scope (Global vs Local)
 - Course - 20 : Function Recursion 
