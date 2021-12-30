@@ -14,6 +14,13 @@ const theList = [
   ["one", "two"],
 ];
 
-console.log(theList[6].score);
-console.log(theList[6]["score"]);
-console.log(theList[7][1]);
+let temp = Array.isArray(theList);
+theList[1] = "Hello World";
+temp = theList.indexOf("Laurence");
+theList.push("Pushed");//add to end
+theList.pop();//remove last item
+theList.shift();//remove first item
+theList.unshift("Unshift");//add to front of array
+theList.splice(1,2);
+console.log(theList);
+console.log(temp);
