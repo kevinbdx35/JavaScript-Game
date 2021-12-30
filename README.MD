@@ -36,7 +36,7 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 28 : Power Up With Arrays More
 - Course - 29 : Array Filter
 - Course - 30 : Loops
-- Challenge - 3 : 
+- Challenge - 3 : Loop And Array
 - 
 
 ## Web Page Interaction And Dynamic Content DOM
