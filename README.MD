@@ -32,3 +32,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 24 : Objet Method
 - Course - 25 : Create Objects With Functions
 - Course - 26 : Arrays
+- Course - 27 : Power Up With Arrays
