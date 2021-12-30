@@ -13,3 +13,7 @@ const theList = [
   },
   ["one", "two"],
 ];
+
+console.log(theList[6].score);
+console.log(theList[6]["score"]);
+console.log(theList[7][1]);
