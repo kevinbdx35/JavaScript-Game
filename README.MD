@@ -42,4 +42,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 
 ## Web Page Interaction And Dynamic Content DOM
 - Element Selection
-- 
+- Multiple Element Selection
