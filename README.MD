@@ -41,3 +41,5 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 32 : Map
 
 ## Web Page Interaction And Dynamic Content DOM
+- DOM
+- 
