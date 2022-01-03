@@ -1,18 +1,21 @@
-let eleList = document.getElementsByClassName("first");
-eleList = document.getElementsByTagName("span");
-eleList = document.querySelectorAll(".first");
-for (let i = 0; i < eleList.length; i++) {
-  let el = eleList[i];
-  console.log(el);
-  eleList[i].textContent = (i +1) + " updated";
-}
+const temp = document.querySelector("h1");
+temp.innerText = "Hello";
+temp.textContent = "Hey!";
+temp.id = "temp1";
+document.getElementById("temp1").style.backgroundColor = "red";
+temp.remove();
 
-eleList.forEach(function(el,index){
-    console.log(index);
-    el.textContent = `${index}: updated`;
-    el.style.backgroundColor = 'red';
-})///Only for nodelist
-    
+const links = document.querySelectorAll("a");
+links.forEach(function (el) {
+  console.log(el.getAttribute("href"));
+  el.setAttribute("href", "http://www.google.com");
+});
 
-
-console.log(eleList);
+const listItems = document.querySelectorAll("li");
+listItems.forEach(function (item, cnt) {
+  item.id = "li" + cnt;
+  item.textContent = "list item #" + cnt;
+  if (item.getAttribute("class")) {
+    console.log(item.getAttribute("class"));
+  }
+});
