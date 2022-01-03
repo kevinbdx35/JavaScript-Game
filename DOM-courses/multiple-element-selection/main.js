@@ -1,14 +1,18 @@
-document.querySelector("h1").innerHTML = "wow that was easy";
-console.dir(document);
+let eleList = document.getElementsByClassName("first");
+eleList = document.getElementsByTagName("span");
+eleList = document.querySelectorAll(".first");
+for (let i = 0; i < eleList.length; i++) {
+  let el = eleList[i];
+  console.log(el);
+  eleList[i].textContent = (i +1) + " updated";
+}
 
-console.log(document.getElementById("myID"));
-console.log(document.querySelector("#myID"));
-console.log(document.querySelector(".first"));
-console.log(document.querySelector("div"));
+eleList.forEach(function(el,index){
+    console.log(index);
+    el.textContent = `${index}: updated`;
+    el.style.backgroundColor = 'red';
+})///Only for nodelist
+    
 
-document.querySelector("span").style.backgroundColor = "yellow";
 
-document.querySelector(".first span").style.backgroundColor = "blue";
-document.querySelector("li:last-child").style.backgroundColor = "green";
-document.querySelector("li:first-child").style.backgroundColor = "red";
-document.querySelector("li:nth-child(4)").style.backgroundColor = "purple";
+console.log(eleList);
