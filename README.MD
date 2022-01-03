@@ -41,5 +41,6 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 - Course - 32 : Map
 
 ## Web Page Interaction And Dynamic Content DOM
-- Element Selection
-- Multiple Element Selection
+1. Element Selection
+2. Multiple Element Selection
+3. Element Manipulation
