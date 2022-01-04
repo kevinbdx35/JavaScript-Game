@@ -52,3 +52,7 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 9. Challenge - 4 : Image Popup
 10. Challenge - 5 : List Items
 11. Challenge - 6 : Backgroud Changer
+12. Event Object
+13. Key Press Events
+14. Mouse Events
+15. Challenge - 7 : 
