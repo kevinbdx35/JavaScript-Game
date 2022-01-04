@@ -49,4 +49,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 6. Element Style Updates
 7. DOM Create Elements
 8. Event Listeners DOM
-9. 
+9. Challenge - 4 : Image Popup
