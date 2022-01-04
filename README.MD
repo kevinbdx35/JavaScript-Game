@@ -50,3 +50,5 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 7. DOM Create Elements
 8. Event Listeners DOM
 9. Challenge - 4 : Image Popup
+10. Challenge - 5 : List Items
+11. Challenge - 6 : Backgroud Changer
