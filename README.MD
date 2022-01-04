@@ -44,3 +44,4 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 1. Element Selection
 2. Multiple Element Selection
 3. Element Manipulation
+4. Element Classes

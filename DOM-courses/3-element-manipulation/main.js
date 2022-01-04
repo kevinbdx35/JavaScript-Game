@@ -1,3 +1,5 @@
+//Use the same template of index.html that before, to implement this code
+
 const temp = document.querySelector("h1");
 temp.innerText = "Hello";
 temp.textContent = "Hey!";
