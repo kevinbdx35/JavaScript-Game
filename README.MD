@@ -45,3 +45,8 @@ No Frameworks or Javascript libraries, I just used regular vanilla JavasScript.
 2. Multiple Element Selection
 3. Element Manipulation
 4. Element Classes
+5. Element Children and Traversing
+6. Element Style Updates
+7. DOM Create Elements
+8. Event Listeners DOM
+9. 
